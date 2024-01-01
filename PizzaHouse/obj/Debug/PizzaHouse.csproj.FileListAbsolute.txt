@@ -1,0 +1,11 @@
+C:\Users\Zekiye Tekin\source\repos\PizzaHouse\PizzaHouse\bin\Debug\PizzaHouse.exe.config
+C:\Users\Zekiye Tekin\source\repos\PizzaHouse\PizzaHouse\bin\Debug\PizzaHouse.exe
+C:\Users\Zekiye Tekin\source\repos\PizzaHouse\PizzaHouse\bin\Debug\PizzaHouse.pdb
+C:\Users\Zekiye Tekin\source\repos\PizzaHouse\PizzaHouse\obj\Debug\PizzaHouse.csproj.AssemblyReference.cache
+C:\Users\Zekiye Tekin\source\repos\PizzaHouse\PizzaHouse\obj\Debug\PizzaHouse.csproj.SuggestedBindingRedirects.cache
+C:\Users\Zekiye Tekin\source\repos\PizzaHouse\PizzaHouse\obj\Debug\PizzaHouse.PizzaHouse.resources
+C:\Users\Zekiye Tekin\source\repos\PizzaHouse\PizzaHouse\obj\Debug\PizzaHouse.Properties.Resources.resources
+C:\Users\Zekiye Tekin\source\repos\PizzaHouse\PizzaHouse\obj\Debug\PizzaHouse.csproj.GenerateResource.cache
+C:\Users\Zekiye Tekin\source\repos\PizzaHouse\PizzaHouse\obj\Debug\PizzaHouse.csproj.CoreCompileInputs.cache
+C:\Users\Zekiye Tekin\source\repos\PizzaHouse\PizzaHouse\obj\Debug\PizzaHouse.exe
+C:\Users\Zekiye Tekin\source\repos\PizzaHouse\PizzaHouse\obj\Debug\PizzaHouse.pdb
